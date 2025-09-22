@@ -16,19 +16,19 @@ masthead_title: # overrides the website title displayed in the masthead
 author:
   name: "Jean-Marie Gilliot"
   avatar: # path of avatar image
-  bio: "Présentation courte de l'auteur"
+  bio: "Maître de conférences - HDR - Pédagogie - Numérique - Informatique "
   location: "France"
   email: 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:jm.gilliot@imt-atlantique.fr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://tipes.wordpress.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      # url: "https://x.com/jmgilliot"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jmgilliot"
