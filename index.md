@@ -1,20 +1,18 @@
 ---
 layout: home
+title: "Site Jean-Marie Gilliot"
 author_profile: true
----
-
-# Bienvenue sur mon site personnel
-
-Bonjour et bienvenue ! Je suis Jean-Marie Gilliot, et ce site personnel me permet de partager mes réflexions, projets et découvertes.
-
-## À propos
-
-Ce site est en cours de construction et sera prochainement enrichi de contenu sur mes centres d'intérêt et activités professionnelles.
-
-## Navigation
-
-Utilisez le menu de navigation pour explorer les différentes sections du site. N'hésitez pas à revenir régulièrement pour découvrir les nouveautés !
+header:
+  image: /assets/images/bando.jpg
 
 ---
 
-*Site propulsé par [Jekyll](https://jekyllrb.com/) avec le thème [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).*
+# Bienvenue 
+
+Bonjour, je suis Jean-Marie Gilliot. Ce site vise à prolonger les échanges et les collaborations autour de la transformation pédagogique, sous toutes ses formes. 
+
+Les sujets sur lesquels je travaille en ce moment : 
+
+ * IA génératives : [guides d'usage](/guidesIAG/) et esprit critique
+ * Transformation des écosystèmes de formation - IA générative - Robustesse
+ * Tableaux de Bord d'Apprentissage - vois [Padlad](https://padlad.github.io/)
