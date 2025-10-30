@@ -15,4 +15,4 @@ Les sujets sur lesquels je travaille en ce moment :
 
  * IA génératives : [guides d'usage](/guidesIAG/) et esprit critique
  * Transformation des écosystèmes de formation - IA générative - Robustesse
- * Tableaux de Bord d'Apprentissage - vois [Padlad](https://padlad.github.io/)
+ * Tableaux de Bord d'Apprentissage - voir [Padlad](https://padlad.github.io/)

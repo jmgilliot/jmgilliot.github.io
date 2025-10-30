@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "À propos"
+Classes: wide
 header:
   image: /assets/images/bando.jpg
 
@@ -16,7 +17,6 @@ Mes intérêts actuels sont autour du développement des usages des IA générat
 
 * [Enseignement - IMT Atlantique](https://www.imt-atlantique.fr/fr/personne/jean-marie-gilliot)
 * [Recherche - Lab-STICC](https://labsticc.fr/fr/annuaire/gilliot-jean-marie)
-
 * [LinkedIn](https://www.linkedin.com/in/jeanmariegilliot/)
 
 
@@ -34,7 +34,7 @@ Je m’intéresse à rendre mes enseignements les plus ouverts possibles, en exp
 Mes contributions les plus notables sont les suivantes :
 * Membre du comité d'orientation (actuellement vice-président) du [colloque "Questions de Pédagogies dans l'Enseignement Supérieur"](https://www.colloque-pedagogie.org/) - J'ai notamment co-piloté l'organisation des éditions 2015, 2019 et 2025
 * En charge d'animer la réflexion sur la place des MOOC au sein de l'Institut Mines-Télécom de 2013 à 2015 ;
-* Co-concepteur et co-animateur du premier MOOC francophone ITyPA(Internet Tout y Est Pour Apprendre) ;
+* Co-concepteur et co-animateur du [premier MOOC francophone ITyPA(Internet Tout y Est Pour Apprendre)](https://hal.science/hal-00942447v1) ;
 * Coordinateur des enseignements par projets (domaine PePS "Projets et Pratiques Scientifiques") au sein de Télécom Bretagne de 2007 à 2013 ;
 * Organisation de conférences : Questions de Pédagogie dans l’Enseignement Supérieur, Forum des  Usages Coopératif – Membre de comités scientifiques : EIAH, OpenSym, eMOOCs, TICE
 * Conférencier  sur les questions des MOOC, du numérique, de l’ouverture et de la coopération dans la pédagogie ; 
