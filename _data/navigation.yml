@@ -8,5 +8,7 @@ main:
     url: https://tipes.wordpress.com/
   - title: "Guides IAG"
     url: /guidesIAG/
+  - title: "ressources IAG"
+    url: /resIAG/
   - title: "Tags"
     url: /tags/
