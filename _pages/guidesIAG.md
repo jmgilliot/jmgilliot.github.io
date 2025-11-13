@@ -1,7 +1,13 @@
 ---
+layout: single
+classes : wide
 title: "Guides pour l'IAG"
 permalink: /guidesIAG/
 author_profile: true
+header:
+  image: /assets/images/bando.png
+sidebar:
+  nav: "iag"
 ---
 
 Nous proposons quelques guides pratiques en français pour accompagner les usages en éducation et recherche dans l'enseignement supérieur. Nous visons 4 guides complémentaires pour 4 types d'utilisateurs : 

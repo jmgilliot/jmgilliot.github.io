@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "À propos"
-Classes: wide
+classes: wide
 header:
   image: /assets/images/bando.jpg
 

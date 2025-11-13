@@ -1,5 +1,6 @@
 ---
 layout: home
+classes: wide
 title: "Site Jean-Marie Gilliot"
 author_profile: true
 header:

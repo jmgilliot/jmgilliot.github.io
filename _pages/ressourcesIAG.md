@@ -1,10 +1,13 @@
 ---
+layout: single
+classes : wide
 permalink: /resIAG/
 title: "Ressources IAG"
-Classes: wide
+author_profile: true
 header:
-  image: /assets/images/bando.jpg
-
+  image: /assets/images/bando.png
+sidebar:
+  nav: "iag"
 ---
 
 # Une liste de sites de veille pertinents autours des IAg en enseignement supérieur
