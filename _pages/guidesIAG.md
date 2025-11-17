@@ -3,7 +3,6 @@ layout: single
 classes : wide
 title: "Guides pour l'IAG"
 permalink: /guidesIAG/
-author_profile: true
 header:
   image: /assets/images/bando.png
 sidebar:

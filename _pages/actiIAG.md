@@ -5,7 +5,7 @@ title: "Activités sur l'IAG pédagogique"
 permalink: /actiIAG/
 author_profile: true
 header:
-  image: /assets/images/bando.png
+  image: /assets/images/bando.jpg
 sidebar:
   nav: "iag"
 ---
@@ -15,4 +15,4 @@ Quelques articles sur mon blog [TIPES](htps://tipes.wordpress.com)
 
 Nous proposons [une collection de guides pratiques](/guidesIAG/)
 
-une [série de sites à suivre])(/resIAG/)
+une [série de sites à suivre](/resIAG/)
