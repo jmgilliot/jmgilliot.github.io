@@ -1,6 +1,5 @@
 ---
 layout: single
-classes : wide
 title: "Guides pour l'IAG"
 permalink: /guidesIAG/
 header:
