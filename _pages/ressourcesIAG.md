@@ -2,10 +2,7 @@
 layout: single
 classes : wide
 permalink: /resIAG/
-title: "Ressources IAG"
 author_profile: true
-header:
-  image: /assets/images/bando.png
 sidebar:
   nav: "iag"
 ---
