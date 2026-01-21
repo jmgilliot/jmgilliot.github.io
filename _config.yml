@@ -2,11 +2,10 @@
 locale: "fr-FR"
 title: "Jean-Marie Gilliot"
 title_separator: "-"
-subtitle: "Site personnel"
 name: "Jean-Marie Gilliot"
 description: "Site personnel de Jean-Marie Gilliot"
 url: "https://jmgilliot.github.io"
-baseurl: ""
+baseurl: /
 repository: "jmgilliot/jmgilliot.github.io"
 teaser: # path of fallback teaser image
 logo: # path of logo image to display in the masthead
@@ -159,4 +158,4 @@ defaults:
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air"

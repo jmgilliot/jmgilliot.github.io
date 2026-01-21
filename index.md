@@ -15,5 +15,5 @@ Bonjour, je suis Jean-Marie Gilliot. Ce site vise à prolonger les échanges et 
 Les sujets sur lesquels je travaille en ce moment : 
 
  * IA génératives : [guides d'usage](/guidesIAG/) et esprit critique
- * Transformation des écosystèmes de formation - IA générative - Robustesse
+ * Transformation des écosystèmes de formation - IA générative - Robustesse - Intelligence collective
  * Tableaux de Bord d'Apprentissage - voir [Padlad](https://padlad.github.io/)
