@@ -1,10 +1,8 @@
 ---
 permalink: /about/
 title: "À propos"
+layout: single
 classes: wide
-header:
-  image: /assets/images/bando.jpg
-
 ---
 
 ## Qui suis-je ?

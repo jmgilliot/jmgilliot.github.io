@@ -4,8 +4,6 @@ classes : wide
 title: "Activités sur l'IAG pédagogique"
 permalink: /actiIAG/
 author_profile: true
-header:
-  image: /assets/images/bando.jpg
 sidebar:
   nav: "iag"
 ---

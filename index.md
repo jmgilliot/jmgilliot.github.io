@@ -1,11 +1,8 @@
 ---
-layout: home
+layout: single
 classes: wide
 title: "Site Jean-Marie Gilliot"
 author_profile: true
-header:
-  image: /assets/images/bando.jpg
-
 ---
 
 # Bienvenue 
